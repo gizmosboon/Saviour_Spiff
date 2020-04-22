@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§l§g[UNOFFICIAL]§r §9Spiffing Brit§r Totem by GizmosBoon\n§oA retexture of the Totem of Undying.§r",
+    "name": "§9Saviour Spiff",
+    "uuid": "aef945c0-a13c-4ea1-8614-8a26c293b2a9",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "description": "Modifies Totem of Undying name and texture",
+      "type": "resources",
+      "uuid": "4782dad3-2cba-4619-a831-538e407240a8",
+      "version": [1, 0, 0]
+    }
+  ]
+}
